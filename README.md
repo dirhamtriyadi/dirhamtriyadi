@@ -47,9 +47,6 @@ I am a web developer who specialized in Frontend.
 <a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
 <a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 
-### 🎨 My Dribbble Profile:
-Remember that I said I'm capable of using design tool as well? Click [here](https://dribbble.com/dibapr) to take a look at my UI/UX Design!
-
 ### 📈 My Github Stats:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dirhamtriyadi&show_icons=true&locale=en&theme=radical" alt="dirhamtriyadi" /></p>

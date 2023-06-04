@@ -49,8 +49,10 @@ I am a web developer who specialized in Frontend.
 
 ### 📈 My Github Stats:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dirhamtriyadi&show_icons=true&locale=en&theme=radical" alt="dirhamtriyadi" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dirhamtriyadi&show_icons=true&title_color=01aaa5&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff" alt="dirhamtriyadi" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dirhamtriyadi&show_icons=true&locale=en&theme=radical" alt="dirhamtriyadi" /></p> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirhamtriyadi&layout=compact" alt="dirhamtriyadi" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?layout=compact&username=dirhamtriyadi&show_icons=true&title_color=01aaa5&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" alt="dirhamtriyadi" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirhamtriyadi&layout=compact" alt="dirhamtriyadi" /></p> -->
 
 <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dirhamtriyadi&line=00CFC9&point=FFFFFF&radius=10&area=true&theme=github-compact" alt="dirhamtriyadi" /></p>

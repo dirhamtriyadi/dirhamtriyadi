@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </p>
 I am a web developer who specialized in Frontend.
 
-- 🌱 I’m currently learning **React**.
+- 🌱 I’m currently learning **Golang**.
 - 📫 How to reach me: **dirhamtriyadi@gmail.com**.
 - ⚡ Fun fact: **Yes, I simp Nilou**
 

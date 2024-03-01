@@ -46,6 +46,7 @@ I am a web developer who specialized in Frontend.
 <a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
 <a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /></a>
 <a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+<a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></a>
 
 ### 📈 My Github Stats:
 
